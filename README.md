@@ -16,7 +16,7 @@ The primary objective of this study is to compare the effects of FC and ZFC on t
 
 ![Preliminary Results](./Notebooks/Plots/Comparison_FC_vs_ZFC.png)
 
-*Figure 1: Preliminary results comparing the performance of superconductors under FC and ZFC conditions, for some initial height, h^{-}.*
+*Figure 1: Preliminary results comparing the performance of superconductors under FC and ZFC conditions, for some initial height, $h^{-}$.*
 
 ## How to Use
 
